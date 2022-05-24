@@ -7,7 +7,11 @@ Experiment --> Outcomes
 
 Probabilistic model - Generic structure and describes the random outcomes of an activity.
 
-Sample spaces: Discreate,Continuous
+Experiment, Outcomes, Random experiments
+
+Sample spaces: Discreate(no. of ppl attending the meeting),Continuous(Stock)
+
+Events: Idependent & Dependent
 
 2.Meta Phaarse - exact symbolical representaion of a phrase
 
