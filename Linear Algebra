@@ -1,0 +1,5 @@
+import numpy as np
+a = np.array
+a.shape
+np.linalg.norm(vector)
+np.transpose(B)
