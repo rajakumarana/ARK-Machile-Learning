@@ -1,5 +1,15 @@
 import numpy as np
 a = np.array
 a.shape
-np.linalg.norm(vector)
-np.transpose(B)
+np.arange(12).reshape((3,4))
+np.linalg.norm(ndarray-name) - Magnitude of vector can be found
+np.transpose(B) - transpose of a matrix
+np.diag((1,2,3)) / np.diag(np.arange(1,4,2))
+np.Identity(2,dtype=int)
+np.eye(3,3)
+comparsion.all()
+np.tril([[1,3,5],[4,5,6]])
+np.triu([[1,3,5],[4,5,6]])
+S V(+) M(+) SV(*) SM(*) MV(*)
+np.add
+np.matmul
