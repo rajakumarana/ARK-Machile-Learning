@@ -1,7 +1,14 @@
-Arithmetic Mean = sum of value in the dataset/No.of values in the dataset
-If Evenly spaced Numbers [3,6,9,12] then
-    Arithmetic Mean = Median = (First Term + Last Term) / 2
+Types of statistics: 1.Descriptive statistics 2. Inferential statistics
 
-Python: import statistics,statistics.mean
+Descriptive statistics: summarize the sample
+
+Measures that used to describe the data:
+1.The Measures of central tendency 
+  Arithmetic Mean = sum of value in the dataset/No.of values in the dataset
+  If Evenly spaced Numbers [3,6,9,12] then
+     Arithmetic Mean = Median = (First Term + Last Term) / 2
+  Python: import statistics,statistics.mean
     
 
+2.The Measures of dispersion
+3.The Measures of shape
