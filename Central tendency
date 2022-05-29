@@ -1,0 +1,7 @@
+Arithmetic Mean = sum of value in the dataset/No.of values in the dataset
+If Evenly spaced Numbers [3,6,9,12] then
+    Arithmetic Mean = Median = (First Term + Last Term) / 2
+
+Python: import statistics,statistics.mean
+    
+
